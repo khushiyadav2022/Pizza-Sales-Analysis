@@ -37,7 +37,7 @@ Throughout the project, I made the most of various Power BI features, including:
 # 📊 Showcase and Contribute
 You can find the complete project, along with the [Power BI dashboard](https://github.com/khushiyadav2022/Pizza-Sales-Analysis/blob/5e564d7783467cd491c69c5e6e9f4febdb10f75c/Pizza%20Place%20sales.pbix)
 
-for video check out [Linkedn Post]()
+for video check out [Linkedn Post](https://www.linkedin.com/feed/update/urn:li:activity:7089847730390409217/)
 
 Dashboard 1:
 ![Pizza sales dashboard 1](https://github.com/khushiyadav2022/Pizza-Sales-Analysis/assets/108923908/f8f1e80e-784e-48f3-b104-bbf89b332494)

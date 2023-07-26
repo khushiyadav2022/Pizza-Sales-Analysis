@@ -35,8 +35,10 @@ Throughout the project, I made the most of various Power BI features, including:
 **Conditional Formatting:** Using formatting to visually highlight important metrics and trends.<br>
 
 # 📊 Showcase and Contribute
-You can find the complete project, along with the [Power BI dashboard]()
-for video check out Linkedn Post
+You can find the complete project, along with the [Power BI dashboard](https://github.com/khushiyadav2022/Pizza-Sales-Analysis/blob/5e564d7783467cd491c69c5e6e9f4febdb10f75c/Pizza%20Place%20sales.pbix)
+
+for video check out [Linkedn Post]()
+
 Dashboard 1:
 ![Pizza sales dashboard 1](https://github.com/khushiyadav2022/Pizza-Sales-Analysis/assets/108923908/f8f1e80e-784e-48f3-b104-bbf89b332494)
 

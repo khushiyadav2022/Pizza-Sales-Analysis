@@ -1,12 +1,12 @@
 # Pizza-Sales-Analysis
 An Interactive Power BI Dashboard
 
-# 🍕📈 Analyzing Pizza Sales with Power BI Dashboard 📊🍕
+# Analyzing Pizza Sales with Power BI Dashboard 📊🍕
 
 
 🍕 What's it all about?
 In this project, I dived deep into pizza sales data to gain valuable insights and create an interactive dashboard to visualize key performance indicators (KPIs). The dashboard provides a bird's-eye view of the pizza business and helps stakeholders make informed decisions.<br>
-[Dataset]()
+[Dataset](https://github.com/khushiyadav2022/Pizza-Sales-Analysis/blob/fa56d1044c3428fdd3aaeff2a5a236ecf2e2835b/pizza_sales.csv)
 
 # 📈 Key Performance Indicators (KPIs)
 Here are some of the important KPIs I incorporated into the dashboard:

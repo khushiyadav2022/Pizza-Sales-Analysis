@@ -1,6 +1,8 @@
 # Pizza-Sales-Analysis
 An Interactive Power BI Dashboard
 
+![Yellow Cab Pizza](https://media.tenor.com/O1s3tkmow70AAAAC/yellow-cab-yellow-cab-pizza.gif)
+
 # Analyzing Pizza Sales with Power BI Dashboard 📊🍕
 
 
